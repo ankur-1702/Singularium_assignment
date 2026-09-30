@@ -60,4 +60,4 @@ The real-provider prompt is defined by `PROMPT` in `app.py`: return JSON only wi
 
 ## AI tool use
 
-AI coding assistance was used to scaffold and review the implementation. The core concurrency, retry, cache, and API behavior is kept in a small Python module.
+ChatGPT was used as a coding assistant during development for initial scaffolding, implementation suggestions, generating test-case, and documentation.
